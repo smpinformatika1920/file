@@ -1,0 +1,2 @@
+# file
+saham BBCA
